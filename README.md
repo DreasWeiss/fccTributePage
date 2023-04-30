@@ -23,22 +23,24 @@ Fulfill the user stories and pass all the tests below to complete this project. 
 Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
 
 ## tests
-- [ ] You should have a main element with an id of main.
-- [ ] Your #img-div, #image, #img-caption, #tribute-info, and #tribute-link should all be descendants of #main.
-- [ ] You should have an element with an id of title.
-- [ ] Your #title should not be empty.
-- [ ] You should have a figure or div element with an id of img-div.
-- [ ] You should have an img element with an id of image.
-- [ ] Your #image should be a descendant of #img-div.
-- [ ] You should have a figcaption or div element with an id of img-caption.
-- [ ] Your #img-caption should be a descendant of #img-div.
-- [ ] Your #img-caption should not be empty.
-- [ ] You should have an element with an id of tribute-info.
-- [ ] Your #tribute-info should not be empty.
-- [ ] You should have an a element with an id of tribute-link.
-- [ ] Your #tribute-link should have an href attribute and value.
-- [ ] Your #tribute-link should have a target attribute set to _blank.
-- [ ] Your img element should have a display of block.
-- [ ] Your #image should have a max-width of 100%.
-- [ ] Your #image should have a height of auto.
-- [ ] Your #image should be centered within its parent.
+- [x] You should have a main element with an id of main.
+- [x] Your #img-div, #image, #img-caption, #tribute-info, and #tribute-link should all be descendants of #main.
+- [x] You should have an element with an id of title.
+- [x] Your #title should not be empty.
+- [x] You should have a figure or div element with an id of img-div.
+- [x] You should have an img element with an id of image.
+- [x] Your #image should be a descendant of #img-div.
+- [x] You should have a figcaption or div element with an id of img-caption.
+- [x] Your #img-caption should be a descendant of #img-div.
+- [x] Your #img-caption should not be empty.
+- [x] You should have an element with an id of tribute-info.
+- [x] Your #tribute-info should not be empty.
+- [x] You should have an a element with an id of tribute-link.
+- [x] Your #tribute-link should have an href attribute and value.
+- [x] Your #tribute-link should have a target attribute set to _blank.
+- [x] Your img element should have a display of block.
+- [x] Your #image should have a max-width of 100%.
+- [x] Your #image should have a height of auto.
+- [x] Your #image should be centered within its parent.
+
+![task done](./img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-04-30%20%D0%B2%2017.42.55.png)
